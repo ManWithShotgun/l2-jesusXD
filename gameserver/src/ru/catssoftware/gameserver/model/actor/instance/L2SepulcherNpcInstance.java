@@ -10,7 +10,7 @@ import ru.catssoftware.gameserver.network.serverpackets.SocialAction;
 import ru.catssoftware.gameserver.network.serverpackets.StatusUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.ValidateLocation;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 

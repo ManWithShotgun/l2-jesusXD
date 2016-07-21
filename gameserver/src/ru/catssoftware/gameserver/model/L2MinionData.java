@@ -14,7 +14,7 @@
  */
 package ru.catssoftware.gameserver.model;
 
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * This class defines the spawn data of a Minion type In a group mob, there are

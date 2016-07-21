@@ -16,7 +16,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PlayableInstance;
 import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.ActionFailed;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * @author  l3x

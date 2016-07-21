@@ -20,7 +20,7 @@ import ru.catssoftware.gameserver.datatables.SpawnTable;
 import ru.catssoftware.gameserver.model.actor.instance.L2ControllableMobInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 import javolution.util.FastList;
 
 

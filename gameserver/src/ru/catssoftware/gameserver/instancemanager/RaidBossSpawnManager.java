@@ -28,7 +28,7 @@ import ru.catssoftware.gameserver.datatables.NpcTable;
 import ru.catssoftware.gameserver.model.L2Boss;
 import ru.catssoftware.gameserver.model.L2Spawn;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 
 public class RaidBossSpawnManager extends BossSpawnManager

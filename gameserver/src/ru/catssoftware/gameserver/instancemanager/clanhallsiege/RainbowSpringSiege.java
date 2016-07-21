@@ -41,7 +41,7 @@ import ru.catssoftware.gameserver.network.serverpackets.ItemList;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.threadmanager.ExclusiveTask;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 import javolution.util.FastList;
 
 

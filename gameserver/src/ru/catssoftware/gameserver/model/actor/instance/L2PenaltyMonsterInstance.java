@@ -21,7 +21,7 @@ import ru.catssoftware.gameserver.model.L2Spawn;
 import ru.catssoftware.gameserver.network.SystemChatChannelId;
 import ru.catssoftware.gameserver.network.serverpackets.CreatureSay;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class L2PenaltyMonsterInstance extends L2MonsterInstance
 {

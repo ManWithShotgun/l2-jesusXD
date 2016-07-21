@@ -27,7 +27,7 @@ import org.apache.log4j.Logger;
 
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.templates.item.L2Henna;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * This class ...

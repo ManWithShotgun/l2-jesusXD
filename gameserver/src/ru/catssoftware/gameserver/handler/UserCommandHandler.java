@@ -7,7 +7,7 @@ import javolution.util.FastMap;
 
 
 
-import ru.catssoftware.util.JarUtils;
+import ru.jesus.commons.util.JarUtils;
 
 public class UserCommandHandler
 {

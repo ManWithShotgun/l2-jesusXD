@@ -54,7 +54,7 @@ import ru.catssoftware.gameserver.network.serverpackets.SocialAction;
 import ru.catssoftware.gameserver.network.serverpackets.StatusUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.network.serverpackets.UserInfo;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.util.LinkedBunch;
 
 /**
  * This class ...

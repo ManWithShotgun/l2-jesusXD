@@ -42,7 +42,7 @@ import ru.catssoftware.gameserver.model.quest.Quest;
 import ru.catssoftware.gameserver.network.serverpackets.NpcHtmlMessage;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
 * Thanks to L2Fortress and balancer.ru - kombat

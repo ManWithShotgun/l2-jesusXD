@@ -42,7 +42,7 @@ import ru.catssoftware.gameserver.templates.item.L2Equip;
 import ru.catssoftware.gameserver.templates.item.L2EtcItem;
 import ru.catssoftware.gameserver.templates.item.L2Item;
 import ru.catssoftware.gameserver.templates.item.L2Weapon;
-import ru.catssoftware.sql.SQLQuery;
+import ru.jesus.commons.sql.SQLQuery;
 
 
 public final class L2ItemInstance extends L2Object implements FuncOwner

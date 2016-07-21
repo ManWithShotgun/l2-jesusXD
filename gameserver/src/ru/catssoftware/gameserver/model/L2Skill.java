@@ -43,9 +43,9 @@ import ru.catssoftware.gameserver.templates.item.L2Weapon;
 import ru.catssoftware.gameserver.templates.item.L2WeaponType;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.lang.L2Integer;
-import ru.catssoftware.util.LinkedBunch;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.lang.L2Integer;
+import ru.jesus.commons.util.LinkedBunch;
+import ru.jesus.commons.util.StatsSet;
 
 public class L2Skill implements FuncOwner
 {

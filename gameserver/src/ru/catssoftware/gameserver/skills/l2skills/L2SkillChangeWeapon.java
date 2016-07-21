@@ -9,7 +9,7 @@ import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.InventoryUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.templates.item.L2Weapon;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * @author nBd

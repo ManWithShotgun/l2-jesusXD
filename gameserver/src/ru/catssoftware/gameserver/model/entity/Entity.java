@@ -28,7 +28,7 @@ import ru.catssoftware.gameserver.model.mapregion.TeleportWhereType;
 import ru.catssoftware.gameserver.model.zone.L2Zone;
 import ru.catssoftware.gameserver.network.serverpackets.L2GameServerPacket;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class Entity
 {

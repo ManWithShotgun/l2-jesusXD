@@ -45,8 +45,8 @@ import ru.catssoftware.gameserver.network.serverpackets.PartySmallWindowDeleteAl
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.skills.Stats;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.LinkedBunch;
 
 import javolution.util.FastList;
 

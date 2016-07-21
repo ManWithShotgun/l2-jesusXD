@@ -9,7 +9,7 @@ import java.util.Map;
 
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.model.base.ClassId;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.util.ArrayUtils;
 
 import javolution.util.FastMap;
 

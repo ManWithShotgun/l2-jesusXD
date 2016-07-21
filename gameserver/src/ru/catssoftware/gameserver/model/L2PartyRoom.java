@@ -24,7 +24,7 @@ import ru.catssoftware.gameserver.network.serverpackets.ExPartyRoomMember;
 import ru.catssoftware.gameserver.network.serverpackets.L2GameServerPacket;
 import ru.catssoftware.gameserver.network.serverpackets.PartyMatchDetail;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
-import ru.catssoftware.lang.L2Math;
+import ru.jesus.commons.lang.L2Math;
 import javolution.util.FastList;
 
 /**

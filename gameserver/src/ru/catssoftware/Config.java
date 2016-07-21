@@ -26,8 +26,8 @@ import javolution.util.FastMap;
 
 
 
-import ru.catssoftware.L2Config;
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.L2Config;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.datatables.ClassTreeTable;
 import ru.catssoftware.gameserver.geodata.GeoData.PathFindingMode;
 import ru.catssoftware.gameserver.handler.IReloadHandler;
@@ -36,7 +36,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.skills.Stats;
 import ru.catssoftware.gameserver.templates.item.L2Armor;
 import ru.catssoftware.gameserver.templates.item.L2Weapon;
-import ru.catssoftware.util.Console;
+import ru.jesus.commons.util.Console;
 
 public class Config extends L2Config
 {

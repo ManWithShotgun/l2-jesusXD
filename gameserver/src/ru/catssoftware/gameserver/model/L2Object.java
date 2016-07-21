@@ -25,8 +25,8 @@ import ru.catssoftware.gameserver.model.actor.position.ObjectPosition;
 import ru.catssoftware.gameserver.model.entity.Instance;
 import ru.catssoftware.gameserver.network.serverpackets.ActionFailed;
 import ru.catssoftware.gameserver.network.serverpackets.L2GameServerPacket;
-import ru.catssoftware.lang.L2Entity;
-import ru.catssoftware.lang.L2Integer;
+import ru.jesus.commons.lang.L2Entity;
+import ru.jesus.commons.lang.L2Integer;
 import javolution.text.TextBuilder;
 
 

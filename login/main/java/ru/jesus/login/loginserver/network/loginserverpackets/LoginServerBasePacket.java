@@ -18,7 +18,7 @@
  */
 package ru.jesus.login.loginserver.network.loginserverpackets;
 
-import ru.catssoftware.tools.task.TaskPriority;
+import ru.jesus.commons.tools.task.TaskPriority;
 
 
 /**

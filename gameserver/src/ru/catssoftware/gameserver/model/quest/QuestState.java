@@ -45,7 +45,7 @@ import ru.catssoftware.gameserver.network.serverpackets.TutorialEnableClientEven
 import ru.catssoftware.gameserver.network.serverpackets.TutorialShowHtml;
 import ru.catssoftware.gameserver.network.serverpackets.TutorialShowQuestionMark;
 import ru.catssoftware.gameserver.skills.Stats;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * @author Luis Arias

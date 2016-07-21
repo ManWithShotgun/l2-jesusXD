@@ -36,7 +36,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.serverpackets.InventoryUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.StatusUpdate;
 import ru.catssoftware.gameserver.templates.item.L2EtcItemType;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.util.LinkedBunch;
 
 import javolution.util.FastList;
 

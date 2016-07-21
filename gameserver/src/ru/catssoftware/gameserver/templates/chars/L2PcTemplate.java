@@ -19,7 +19,7 @@ import java.util.List;
 import ru.catssoftware.Config;
 import ru.catssoftware.gameserver.model.base.ClassId;
 import ru.catssoftware.gameserver.model.base.Race;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 import javolution.util.FastList;
 

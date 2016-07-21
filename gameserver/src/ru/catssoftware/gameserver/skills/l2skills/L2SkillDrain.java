@@ -27,7 +27,7 @@ import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.StatusUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.skills.Formulas;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public class L2SkillDrain extends L2Skill
 {

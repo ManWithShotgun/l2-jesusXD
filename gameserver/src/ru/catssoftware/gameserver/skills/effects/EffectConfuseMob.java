@@ -23,7 +23,7 @@ import ru.catssoftware.gameserver.model.L2Effect;
 import ru.catssoftware.gameserver.model.L2Object;
 import ru.catssoftware.gameserver.skills.Env;
 import ru.catssoftware.gameserver.templates.skills.L2EffectType;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastList;
 

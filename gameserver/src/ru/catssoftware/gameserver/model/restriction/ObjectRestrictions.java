@@ -22,7 +22,7 @@ import ru.catssoftware.gameserver.model.L2Object;
 import ru.catssoftware.gameserver.model.L2Summon;
 import ru.catssoftware.gameserver.model.L2World;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * @author  Noctarius

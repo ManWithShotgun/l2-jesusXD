@@ -14,7 +14,7 @@ import ru.catssoftware.gameserver.model.quest.QuestState;
 import ru.catssoftware.gameserver.model.quest.State;
 import ru.catssoftware.gameserver.network.serverpackets.MagicSkillUse;
 import ru.catssoftware.gameserver.network.serverpackets.NpcSay;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 import javolution.util.FastList;
 import javolution.util.FastMap;
 

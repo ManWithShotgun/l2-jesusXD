@@ -23,7 +23,7 @@ import ru.catssoftware.gameserver.model.L2Object;
 import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.network.serverpackets.MagicSkillUse;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 /**

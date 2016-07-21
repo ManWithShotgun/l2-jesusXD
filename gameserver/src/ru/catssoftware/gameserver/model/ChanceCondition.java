@@ -1,7 +1,7 @@
 package ru.catssoftware.gameserver.model;
 
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.StatsSet;
 
 public final class ChanceCondition
 {

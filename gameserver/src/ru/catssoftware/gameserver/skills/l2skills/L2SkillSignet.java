@@ -26,8 +26,8 @@ import ru.catssoftware.gameserver.model.L2World;
 import ru.catssoftware.gameserver.model.actor.instance.L2EffectPointInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.geometry.Point3D;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.tools.geometry.Point3D;
+import ru.jesus.commons.util.StatsSet;
 
 public final class L2SkillSignet extends L2Skill
 {

@@ -30,7 +30,7 @@ import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.model.base.ClassId;
 import ru.catssoftware.gameserver.model.quest.Quest;
 import ru.catssoftware.gameserver.skills.Stats;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public final class L2NpcTemplate extends L2CharTemplate
 {

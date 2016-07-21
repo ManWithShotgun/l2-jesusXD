@@ -35,7 +35,7 @@ import ru.catssoftware.gameserver.datatables.SkillTable;
 import ru.catssoftware.gameserver.items.model.L2ExtractableItem;
 import ru.catssoftware.gameserver.items.model.L2ExtractableProductItem;
 import ru.catssoftware.gameserver.model.L2Skill;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.util.ArrayUtils;
 
 public class ExtractableItemsData extends XMLDocument
 {

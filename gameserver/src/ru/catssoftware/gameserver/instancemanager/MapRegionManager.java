@@ -50,7 +50,7 @@ import ru.catssoftware.gameserver.model.mapregion.L2MapRegionRestart;
 import ru.catssoftware.gameserver.model.mapregion.TeleportWhereType;
 import ru.catssoftware.gameserver.model.zone.L2Zone;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 /**
  * @author Noctarius

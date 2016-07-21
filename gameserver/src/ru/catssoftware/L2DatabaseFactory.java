@@ -19,7 +19,7 @@ import java.sql.SQLException;
 
 import org.apache.commons.dbcp.BasicDataSource;
 import org.apache.log4j.Logger;
-
+import ru.jesus.commons.AbstractDatabaseFactory;
 
 
 public final class L2DatabaseFactory extends AbstractDatabaseFactory

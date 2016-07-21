@@ -18,8 +18,8 @@ import ru.jesus.login.loginserver.manager.GameServerManager;
 import ru.jesus.login.loginserver.manager.LoginManager;
 import ru.jesus.login.loginserver.mmocore.SelectorConfig;
 import ru.jesus.login.loginserver.mmocore.SelectorThread;
-import ru.catssoftware.config.L2Properties;
-import ru.catssoftware.extension.ExtensionManager;
+import ru.jesus.commons.config.L2Properties;
+import ru.jesus.commons.extension.ExtensionManager;
 import ru.jesus.login.loginserver.thread.GameServerListener;
 
 /**

@@ -34,7 +34,7 @@ import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.network.serverpackets.UserInfo;
 import ru.catssoftware.gameserver.templates.item.L2Item;
 import ru.catssoftware.gameserver.util.L2Utils;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public class Hero
 {

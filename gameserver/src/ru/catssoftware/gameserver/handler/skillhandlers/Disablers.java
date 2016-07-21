@@ -36,7 +36,7 @@ import ru.catssoftware.gameserver.skills.Formulas;
 import ru.catssoftware.gameserver.skills.Stats;
 import ru.catssoftware.gameserver.skills.effects.EffectBuff;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 import javolution.util.FastList;
 
 public class Disablers implements ICubicSkillHandler

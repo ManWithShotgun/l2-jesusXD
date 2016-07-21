@@ -25,7 +25,7 @@ import ru.catssoftware.gameserver.util.FloodProtector;
 import ru.catssoftware.gameserver.util.IllegalPlayerAction;
 import ru.catssoftware.gameserver.util.Util;
 import ru.catssoftware.gameserver.util.FloodProtector.Protected;
-import ru.catssoftware.lang.L2System;
+import ru.jesus.commons.lang.L2System;
 
 public final class UseItem extends L2GameClientPacket
 {

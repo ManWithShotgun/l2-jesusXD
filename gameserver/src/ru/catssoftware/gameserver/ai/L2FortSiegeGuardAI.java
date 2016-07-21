@@ -21,7 +21,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PlayableInstance;
 import ru.catssoftware.gameserver.taskmanager.AbstractIterativePeriodicTaskManager;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 /**

@@ -50,7 +50,7 @@ import org.apache.log4j.Logger;
 
 
 import ru.catssoftware.Config;
-import ru.catssoftware.util.JarUtils;
+import ru.jesus.commons.util.JarUtils;
 
 /**
  * Caches script engines and provides functionality for executing and managing scripts.<BR>

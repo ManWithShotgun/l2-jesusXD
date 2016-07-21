@@ -1,6 +1,6 @@
 package ru.catssoftware.gameserver.model.quest.pack;
 
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 import ru.catssoftware.Config;
 import ru.catssoftware.gameserver.model.actor.instance.L2NpcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;

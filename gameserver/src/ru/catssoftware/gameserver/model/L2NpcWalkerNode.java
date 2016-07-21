@@ -14,7 +14,7 @@
  */
 package ru.catssoftware.gameserver.model;
 
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  *

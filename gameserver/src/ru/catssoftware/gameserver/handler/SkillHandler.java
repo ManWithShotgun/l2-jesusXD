@@ -8,8 +8,8 @@ import javolution.util.FastMap;
 import ru.catssoftware.gameserver.model.L2Character;
 import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.util.HandlerRegistry;
-import ru.catssoftware.util.JarUtils;
+import ru.jesus.commons.util.HandlerRegistry;
+import ru.jesus.commons.util.JarUtils;
 
 
 public final class SkillHandler extends HandlerRegistry<L2SkillType, ISkillHandler> implements ISkillHandler

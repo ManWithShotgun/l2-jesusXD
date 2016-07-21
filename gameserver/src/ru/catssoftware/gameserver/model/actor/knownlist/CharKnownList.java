@@ -25,8 +25,8 @@ import ru.catssoftware.gameserver.model.actor.instance.L2NpcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PlayableInstance;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.util.L2Collections;
-import ru.catssoftware.util.SingletonMap;
+import ru.jesus.commons.util.L2Collections;
+import ru.jesus.commons.util.SingletonMap;
 
 
 public class CharKnownList extends ObjectKnownList

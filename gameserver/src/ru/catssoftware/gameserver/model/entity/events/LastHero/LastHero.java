@@ -2,7 +2,7 @@ package ru.catssoftware.gameserver.model.entity.events.LastHero;
 
 import ru.catssoftware.Config;
 import ru.catssoftware.Message;
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.Announcements;
 import ru.catssoftware.gameserver.ThreadPoolManager;
 import ru.catssoftware.gameserver.datatables.ItemTable;
@@ -27,8 +27,8 @@ import ru.catssoftware.gameserver.templates.item.L2EtcItemType;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
 import ru.catssoftware.gameserver.threadmanager.ExclusiveTask;
 import ru.catssoftware.gameserver.util.PcAction;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.ArrayUtils;
 import javolution.util.FastList;
 
 

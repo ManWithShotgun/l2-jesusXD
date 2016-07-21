@@ -19,7 +19,7 @@ import java.util.concurrent.Future;
 
 import javolution.util.FastList;
 
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.ThreadPoolManager;
 import ru.catssoftware.gameserver.ai.CtrlIntention;
 import ru.catssoftware.gameserver.datatables.NpcTable;
@@ -39,8 +39,8 @@ import ru.catssoftware.gameserver.network.serverpackets.MagicSkillUse;
 import ru.catssoftware.gameserver.network.serverpackets.SocialAction;
 import ru.catssoftware.gameserver.skills.AbnormalEffect;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.ArrayUtils;
 
 
 

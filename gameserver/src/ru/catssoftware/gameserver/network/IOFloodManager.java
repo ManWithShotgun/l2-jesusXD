@@ -18,7 +18,7 @@ import ru.catssoftware.Config;
 import ru.catssoftware.gameserver.mmocore.IAcceptFilter;
 import ru.catssoftware.gameserver.network.clientpackets.L2GameClientPacket;
 import ru.catssoftware.info.Version;
-import ru.catssoftware.lang.L2System;
+import ru.jesus.commons.lang.L2System;
 
 public final class IOFloodManager implements IAcceptFilter
 {

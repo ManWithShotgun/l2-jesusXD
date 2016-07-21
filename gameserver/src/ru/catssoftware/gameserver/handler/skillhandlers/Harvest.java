@@ -12,7 +12,7 @@ import ru.catssoftware.gameserver.network.serverpackets.InventoryUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.ItemList;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class Harvest implements ISkillHandler
 {

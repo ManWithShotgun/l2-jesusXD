@@ -33,7 +33,7 @@ import ru.catssoftware.gameserver.network.serverpackets.ExOlympiadUserInfo;
 import ru.catssoftware.gameserver.network.serverpackets.InventoryUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.skills.l2skills.L2SkillSummon;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 import javolution.util.FastList;
 

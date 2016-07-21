@@ -28,9 +28,9 @@ import ru.catssoftware.gameserver.skills.conditions.Condition;
 import ru.catssoftware.gameserver.skills.funcs.Func;
 import ru.catssoftware.gameserver.skills.funcs.FuncOwner;
 import ru.catssoftware.gameserver.skills.funcs.FuncTemplate;
-import ru.catssoftware.util.ArrayUtils;
-import ru.catssoftware.util.LinkedBunch;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.ArrayUtils;
+import ru.jesus.commons.util.LinkedBunch;
+import ru.jesus.commons.util.StatsSet;
 
 import java.util.Arrays;
 

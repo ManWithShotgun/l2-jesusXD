@@ -20,7 +20,7 @@ import ru.catssoftware.gameserver.skills.funcs.FuncOwner;
 import ru.catssoftware.gameserver.skills.funcs.FuncTemplate;
 import ru.catssoftware.gameserver.templates.skills.L2EffectType;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.util.LinkedBunch;
 
 
 public abstract class L2Effect implements FuncOwner

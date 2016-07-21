@@ -33,7 +33,7 @@ import ru.catssoftware.gameserver.datatables.SkillTable;
 import ru.catssoftware.gameserver.model.L2Augmentation;
 import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.skills.Stats;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * This class manages the augmentation data and can also create new augmentations.

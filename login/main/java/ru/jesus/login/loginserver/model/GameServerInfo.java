@@ -32,7 +32,7 @@ import java.sql.SQLException;
 
 import ru.jesus.login.loginserver.network.gameserverpackets.ServerStatus;
 import ru.jesus.login.loginserver.thread.GameServerThread;
-import ru.catssoftware.tools.util.HexUtil;
+import ru.jesus.commons.tools.util.HexUtil;
 
 
 /**

@@ -17,7 +17,7 @@ import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.network.serverpackets.UserInfo;
 import ru.catssoftware.gameserver.util.IllegalPlayerAction;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public final class RequestExEnchantSkill extends L2GameClientPacket
 {

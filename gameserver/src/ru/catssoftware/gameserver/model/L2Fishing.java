@@ -27,7 +27,7 @@ import ru.catssoftware.gameserver.network.serverpackets.ExFishingHpRegen;
 import ru.catssoftware.gameserver.network.serverpackets.ExFishingStartCombat;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 public class L2Fishing implements Runnable

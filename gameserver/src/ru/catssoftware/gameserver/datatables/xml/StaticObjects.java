@@ -29,7 +29,7 @@ import ru.catssoftware.Config;
 import ru.catssoftware.gameserver.idfactory.IdFactory;
 import ru.catssoftware.gameserver.model.actor.instance.L2StaticObjectInstance;
 import ru.catssoftware.gameserver.templates.chars.L2CharTemplate;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public class StaticObjects extends XMLDocument
 {

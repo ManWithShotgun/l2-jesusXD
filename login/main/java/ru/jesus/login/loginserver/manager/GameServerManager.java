@@ -51,7 +51,7 @@ import org.w3c.dom.Node;
 
 import ru.jesus.login.loginserver.model.GameServerInfo;
 import ru.jesus.login.L2DatabaseFactory;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * Manager servers

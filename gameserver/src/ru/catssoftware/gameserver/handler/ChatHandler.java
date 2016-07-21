@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 
 
 import ru.catssoftware.gameserver.network.SystemChatChannelId;
-import ru.catssoftware.util.JarUtils;
+import ru.jesus.commons.util.JarUtils;
 
 public class ChatHandler
 {

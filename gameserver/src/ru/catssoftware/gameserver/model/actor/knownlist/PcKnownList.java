@@ -31,7 +31,7 @@ import ru.catssoftware.gameserver.network.serverpackets.Ride;
 import ru.catssoftware.gameserver.network.serverpackets.SpawnItem;
 import ru.catssoftware.gameserver.network.serverpackets.StaticObject;
 import ru.catssoftware.gameserver.network.serverpackets.VehicleInfo;
-import ru.catssoftware.util.SingletonMap;
+import ru.jesus.commons.util.SingletonMap;
 
 public class PcKnownList extends PlayableKnownList
 {

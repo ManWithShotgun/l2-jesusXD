@@ -20,7 +20,7 @@ import java.util.concurrent.ScheduledFuture;
 import javolution.util.FastList;
 
 import ru.catssoftware.Config;
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.ThreadPoolManager;
 import ru.catssoftware.gameserver.ai.CtrlIntention;
 import ru.catssoftware.gameserver.datatables.NpcTable;
@@ -38,7 +38,7 @@ import ru.catssoftware.gameserver.model.mapregion.TeleportWhereType;
 import ru.catssoftware.gameserver.model.quest.pack.ai.Antharas;
 import ru.catssoftware.gameserver.network.serverpackets.SocialAction;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 

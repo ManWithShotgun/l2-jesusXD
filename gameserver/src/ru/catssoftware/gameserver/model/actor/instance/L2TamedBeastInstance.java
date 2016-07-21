@@ -28,8 +28,8 @@ import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.network.serverpackets.StopMove;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.tools.geometry.Point3D;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.geometry.Point3D;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastMap;
 

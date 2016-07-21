@@ -45,7 +45,7 @@ import ru.catssoftware.gameserver.templates.item.L2Weapon;
 import ru.catssoftware.gameserver.templates.item.L2WeaponType;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
  /**
   * Класс содержит основные формулы для расчета урона, регенерации....

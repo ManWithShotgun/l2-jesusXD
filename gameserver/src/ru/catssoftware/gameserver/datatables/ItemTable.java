@@ -33,8 +33,8 @@ import ru.catssoftware.gameserver.templates.item.L2ArmorType;
 import ru.catssoftware.gameserver.templates.item.L2EtcItemType;
 import ru.catssoftware.gameserver.templates.item.L2Item;
 import ru.catssoftware.gameserver.templates.item.L2WeaponType;
-import ru.catssoftware.util.L2Collections;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.L2Collections;
+import ru.jesus.commons.util.StatsSet;
 
 
 public final class ItemTable

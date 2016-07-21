@@ -2,7 +2,7 @@ package ru.catssoftware.gameserver.util;
 
 import ru.catssoftware.gameserver.model.L2Object;
 import ru.catssoftware.gameserver.model.Location;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class RndCoord {
 	public static Location coordsRandomize(L2Object obj, int min, int max)

@@ -18,7 +18,7 @@ import ru.catssoftware.Config;
 import ru.catssoftware.gameserver.model.L2ItemInstance;
 import ru.catssoftware.gameserver.model.L2ItemInstance.ItemLocation;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.util.LinkedBunch;
 
 public class PcFreight extends ItemContainer
 {

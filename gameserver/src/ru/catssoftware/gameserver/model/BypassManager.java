@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.util.Strings;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 public class BypassManager

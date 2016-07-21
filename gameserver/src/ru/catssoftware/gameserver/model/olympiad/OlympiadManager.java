@@ -21,7 +21,7 @@ import ru.catssoftware.Message;
 import ru.catssoftware.Message.MessageId;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.olympiad.Olympiad.COMP_TYPE;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastList;
 import javolution.util.FastMap;

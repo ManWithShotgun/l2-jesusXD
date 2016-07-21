@@ -33,7 +33,7 @@ import ru.catssoftware.gameserver.network.L2GameClient;
 import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.NpcHtmlMessage;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 
  /**

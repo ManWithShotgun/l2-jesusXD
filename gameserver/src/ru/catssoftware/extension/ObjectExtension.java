@@ -1,6 +1,6 @@
 package ru.catssoftware.extension;
 
-import ru.catssoftware.extension.IExtension;
+import ru.jesus.commons.extension.IExtension;
 
 public abstract class ObjectExtension implements IExtension {
 	public static enum Action {

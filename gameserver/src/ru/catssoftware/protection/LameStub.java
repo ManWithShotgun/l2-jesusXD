@@ -1,7 +1,7 @@
 package ru.catssoftware.protection;
 
-import ru.catssoftware.tools.security.BlowFishKeygen;
-import ru.catssoftware.tools.security.GameCrypt;
+import ru.jesus.commons.tools.security.BlowFishKeygen;
+import ru.jesus.commons.tools.security.GameCrypt;
 
 
 public class LameStub {

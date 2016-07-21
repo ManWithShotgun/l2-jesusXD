@@ -52,8 +52,8 @@ import ru.catssoftware.gameserver.network.serverpackets.NpcHtmlMessage;
 import ru.catssoftware.gameserver.scripting.ManagedScript;
 import ru.catssoftware.gameserver.scripting.ScriptManager;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.ArrayUtils;
 
 /**
  * @author Luis Arias

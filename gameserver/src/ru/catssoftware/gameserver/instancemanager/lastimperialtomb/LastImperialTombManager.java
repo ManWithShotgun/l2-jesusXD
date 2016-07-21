@@ -35,7 +35,7 @@ import ru.catssoftware.gameserver.network.SystemChatChannelId;
 import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.CreatureSay;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastList;
 

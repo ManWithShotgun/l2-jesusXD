@@ -14,7 +14,7 @@ import ru.catssoftware.gameserver.mmocore.ReceivablePacket;
 import ru.catssoftware.gameserver.network.L2GameClient;
 import ru.catssoftware.gameserver.threadmanager.L2ThreadFactory;
 import ru.catssoftware.gameserver.threadmanager.ScheduledFutureWrapper;
-import ru.catssoftware.util.concurrent.L2RejectedExecutionHandler;
+import ru.jesus.commons.util.concurrent.L2RejectedExecutionHandler;
 
 
 public final class ThreadPoolManager

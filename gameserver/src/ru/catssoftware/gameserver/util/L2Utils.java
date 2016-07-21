@@ -12,7 +12,7 @@ import ru.catssoftware.gameserver.model.L2World;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.zone.L2Zone;
 import ru.catssoftware.gameserver.taskmanager.SQLQueue;
-import ru.catssoftware.sql.SQLQuery;
+import ru.jesus.commons.sql.SQLQuery;
 
 
  /**

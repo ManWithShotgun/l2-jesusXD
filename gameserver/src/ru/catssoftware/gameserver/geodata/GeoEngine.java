@@ -32,7 +32,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2SiegeGuardInstance;
 import org.apache.log4j.Logger;
 
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 /**
  * @author -Nemesiss-

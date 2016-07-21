@@ -39,7 +39,7 @@ import ru.catssoftware.gameserver.model.entity.ClanHall;
 import ru.catssoftware.gameserver.model.entity.Instance;
 import ru.catssoftware.gameserver.model.mapregion.L2MapRegion;
 import ru.catssoftware.gameserver.templates.chars.L2CharTemplate;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public final class DoorTable extends XMLDocument
 {

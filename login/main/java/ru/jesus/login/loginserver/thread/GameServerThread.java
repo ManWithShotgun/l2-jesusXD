@@ -32,8 +32,8 @@ import ru.jesus.login.loginserver.manager.GameServerManager;
 import ru.jesus.login.loginserver.manager.LoginManager;
 import ru.jesus.login.loginserver.model.GameServerInfo;
 import ru.jesus.login.loginserver.model.SessionKey;
-import ru.catssoftware.tools.network.SubNetHost;
-import ru.catssoftware.tools.security.NewCrypt;
+import ru.jesus.commons.tools.network.SubNetHost;
+import ru.jesus.commons.tools.security.NewCrypt;
 
 /**
  * @author -Wooden-

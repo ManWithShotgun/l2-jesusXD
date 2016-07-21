@@ -13,7 +13,7 @@ import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.ActionFailed;
 import ru.catssoftware.gameserver.network.serverpackets.PlaySound;
 import ru.catssoftware.gameserver.network.serverpackets.SocialAction;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * @author  chris

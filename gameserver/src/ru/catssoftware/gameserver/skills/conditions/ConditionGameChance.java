@@ -15,7 +15,7 @@
 package ru.catssoftware.gameserver.skills.conditions;
 
 import ru.catssoftware.gameserver.skills.Env;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * @author Advi

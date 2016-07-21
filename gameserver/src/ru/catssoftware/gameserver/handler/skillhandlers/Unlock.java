@@ -13,7 +13,7 @@ import ru.catssoftware.gameserver.network.serverpackets.ActionFailed;
 import ru.catssoftware.gameserver.network.serverpackets.SocialAction;
 import ru.catssoftware.gameserver.skills.Formulas;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class Unlock implements ISkillHandler
 {

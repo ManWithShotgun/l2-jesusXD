@@ -4,7 +4,7 @@ import ru.catssoftware.gameserver.SevenSigns;
 import ru.catssoftware.gameserver.SevenSignsFestival;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.SystemMessageId;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * Seven Signs Record Update

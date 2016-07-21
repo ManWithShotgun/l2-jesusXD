@@ -1,6 +1,6 @@
 package ru.jesus.login.loginserver.model;
 
-import ru.catssoftware.tools.network.SubNet;
+import ru.jesus.commons.tools.network.SubNet;
 
 
 /**

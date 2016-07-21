@@ -5,7 +5,7 @@ import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.serverpackets.ValidateLocation;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 public final class RequestExMagicSkillUseGround extends L2GameClientPacket
 {

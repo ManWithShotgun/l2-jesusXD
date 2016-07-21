@@ -30,7 +30,7 @@ import ru.catssoftware.Config;
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.model.base.ClassId;
 import ru.catssoftware.gameserver.templates.chars.L2PcTemplate;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * This class ...

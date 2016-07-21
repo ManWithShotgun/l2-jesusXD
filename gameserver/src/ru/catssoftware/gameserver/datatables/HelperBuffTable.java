@@ -22,7 +22,7 @@ import org.apache.log4j.Logger;
 
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.templates.L2HelperBuff;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 import javolution.util.FastList;
 
 /**

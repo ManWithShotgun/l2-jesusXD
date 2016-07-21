@@ -14,7 +14,7 @@ import org.apache.log4j.Logger;
 
 
 import ru.catssoftware.Config;
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.model.L2World;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 

@@ -6,7 +6,7 @@ import ru.catssoftware.gameserver.model.L2CharPosition;
 import ru.catssoftware.gameserver.model.actor.instance.L2BoatInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.templates.item.L2WeaponType;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 public class RequestMoveToLocationInVehicle extends L2GameClientPacket
 {

@@ -11,7 +11,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2NpcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.serverpackets.PlaySound;
 import ru.catssoftware.gameserver.network.serverpackets.SocialAction;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 import javolution.util.FastList;
 
 public class QueenAnt extends L2AttackableAIScript

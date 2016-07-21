@@ -31,8 +31,8 @@ import ru.catssoftware.gameserver.taskmanager.AttackStanceTaskManager;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.templates.item.L2Weapon;
 import ru.catssoftware.gameserver.templates.item.L2WeaponType;
-import ru.catssoftware.tools.geometry.Point3D;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.geometry.Point3D;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastList;
 

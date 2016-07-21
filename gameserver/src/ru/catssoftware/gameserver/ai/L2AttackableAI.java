@@ -41,7 +41,7 @@ import ru.catssoftware.gameserver.model.zone.L2Zone;
 import ru.catssoftware.gameserver.taskmanager.AbstractIterativePeriodicTaskManager;
 import ru.catssoftware.gameserver.taskmanager.DecayTaskManager;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class L2AttackableAI extends L2CharacterAI implements Runnable
 {

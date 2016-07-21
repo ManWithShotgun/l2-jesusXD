@@ -9,7 +9,7 @@ import ru.catssoftware.gameserver.model.base.ClassId;
 import ru.catssoftware.gameserver.model.base.Race;
 import ru.catssoftware.gameserver.model.itemcontainer.Inventory;
 import ru.catssoftware.gameserver.templates.item.L2Item;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public class NpcLikePcTemplate 
 {

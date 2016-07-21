@@ -23,7 +23,7 @@ import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.skills.Stats;
 import ru.catssoftware.gameserver.skills.funcs.Func;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * Used for Break Duress skill mainly

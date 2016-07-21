@@ -4,7 +4,7 @@ import ru.catssoftware.Message;
 import ru.catssoftware.gameserver.model.L2Character;
 import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public class L2ScriptSkill extends L2Skill {
 	public static interface IScriptSkillHandler {

@@ -10,7 +10,7 @@ import javolution.util.FastMap;
 import org.apache.log4j.Logger;
 
 
-import ru.catssoftware.util.JarUtils;
+import ru.jesus.commons.util.JarUtils;
 
 public class ItemHandler
 {

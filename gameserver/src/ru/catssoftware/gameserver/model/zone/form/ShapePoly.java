@@ -15,7 +15,7 @@
 package ru.catssoftware.gameserver.model.zone.form;
 
 import ru.catssoftware.gameserver.model.Location;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 /**

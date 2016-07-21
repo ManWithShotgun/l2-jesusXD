@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.Shutdown;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 
 

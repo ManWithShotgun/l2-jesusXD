@@ -12,7 +12,7 @@ import ru.catssoftware.gameserver.geodata.pathfinding.PathFinding;
 import ru.catssoftware.gameserver.model.L2Object;
 import ru.catssoftware.gameserver.model.Location;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 public class GeoData
 {

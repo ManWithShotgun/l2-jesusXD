@@ -3,7 +3,7 @@ package ru.catssoftware.gameserver.model;
 import java.util.List;
 
 import ru.catssoftware.Config;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastList;
 

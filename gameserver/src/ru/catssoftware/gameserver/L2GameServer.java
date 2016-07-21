@@ -148,8 +148,8 @@ import ru.catssoftware.gameserver.util.PcAction;
 import ru.catssoftware.gameserver.util.Util;
 import ru.catssoftware.info.Version;
 import ru.catssoftware.protection.CatsGuard;
-import ru.catssoftware.util.Console;
-import ru.catssoftware.util.concurrent.RunnableStatsManager;
+import ru.jesus.commons.util.Console;
+import ru.jesus.commons.util.concurrent.RunnableStatsManager;
 
 
 public class L2GameServer

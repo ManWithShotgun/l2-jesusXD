@@ -4,7 +4,7 @@ import ru.catssoftware.gameserver.instancemanager.BoatManager;
 import ru.catssoftware.gameserver.model.actor.instance.L2BoatInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.serverpackets.GetOnVehicle;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 public class RequestGetOnVehicle extends L2GameClientPacket
 {

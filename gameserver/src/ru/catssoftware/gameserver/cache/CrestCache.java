@@ -19,7 +19,7 @@ import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.datatables.ClanTable;
 import ru.catssoftware.gameserver.idfactory.IdFactory;
 import ru.catssoftware.gameserver.model.L2Clan;
-import ru.catssoftware.tools.cache.FastMRUCache;
+import ru.jesus.commons.tools.cache.FastMRUCache;
 
 /**
  * @author Layane

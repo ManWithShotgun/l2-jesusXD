@@ -35,8 +35,8 @@ import ru.catssoftware.gameserver.model.L2SkillLearn;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.base.ClassId;
 import ru.catssoftware.gameserver.model.quest.QuestState;
-import ru.catssoftware.util.L2Collections;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.util.L2Collections;
+import ru.jesus.commons.util.LinkedBunch;
 
 /**
  * This class ...

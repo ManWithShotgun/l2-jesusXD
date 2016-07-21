@@ -7,7 +7,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PlayableInstance;
 import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.ItemList;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class AdvQuestItems implements IItemHandler
 {

@@ -13,8 +13,8 @@ import org.apache.log4j.Logger;
 
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
-import ru.catssoftware.lang.L2Integer;
-import ru.catssoftware.util.SingletonSet;
+import ru.jesus.commons.lang.L2Integer;
+import ru.jesus.commons.util.SingletonSet;
 
 
 public final class BlockListManager

@@ -8,7 +8,7 @@ import javolution.util.FastList;
 import org.apache.log4j.Logger;
 
 
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.ThreadPoolManager;
 import ru.catssoftware.gameserver.datatables.NpcTable;
 import ru.catssoftware.gameserver.datatables.SkillTable;
@@ -19,7 +19,7 @@ import ru.catssoftware.gameserver.model.entity.GrandBossState;
 import ru.catssoftware.gameserver.model.entity.GrandBossState.StateEnum;
 import ru.catssoftware.gameserver.model.mapregion.TeleportWhereType;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 public class ZakenManager extends BossLair

@@ -14,8 +14,8 @@ import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.skills.conditions.Condition;
 import ru.catssoftware.gameserver.skills.effects.EffectTemplate;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.util.ObjectPool;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.ObjectPool;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * @author mkizub

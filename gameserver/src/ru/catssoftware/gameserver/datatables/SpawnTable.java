@@ -22,7 +22,7 @@ import ru.catssoftware.gameserver.instancemanager.clanhallsiege.FortResistSiegeM
 import ru.catssoftware.gameserver.model.L2Spawn;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.util.ArrayUtils;
 
 public class SpawnTable
 {

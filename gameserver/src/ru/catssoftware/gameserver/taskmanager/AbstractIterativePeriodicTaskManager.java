@@ -3,7 +3,7 @@ package ru.catssoftware.gameserver.taskmanager;
 import java.util.Set;
 
 import ru.catssoftware.Config;
-import ru.catssoftware.util.concurrent.RunnableStatsManager;
+import ru.jesus.commons.util.concurrent.RunnableStatsManager;
 import javolution.util.FastSet;
 
 public abstract class AbstractIterativePeriodicTaskManager<T> extends AbstractPeriodicTaskManager

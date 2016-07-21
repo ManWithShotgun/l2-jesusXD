@@ -23,8 +23,8 @@ import ru.jesus.login.loginserver.network.serverpackets.LoginFail;
 import ru.jesus.login.loginserver.network.serverpackets.LoginFailReason;
 import ru.jesus.login.loginserver.network.serverpackets.PlayFail;
 import ru.jesus.login.loginserver.network.serverpackets.PlayFailReason;
-import ru.catssoftware.tools.math.ScrambledKeyPair;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.math.ScrambledKeyPair;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * Represents a client connected into the LoginServer

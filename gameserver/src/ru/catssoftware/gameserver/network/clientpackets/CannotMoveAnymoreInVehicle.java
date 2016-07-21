@@ -2,7 +2,7 @@ package ru.catssoftware.gameserver.network.clientpackets;
 
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.serverpackets.StopMoveInVehicle;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 /**
  * @author Maktakien

@@ -9,7 +9,7 @@ import ru.catssoftware.gameserver.model.L2Attackable;
 import ru.catssoftware.gameserver.model.L2Character;
 import ru.catssoftware.gameserver.model.actor.instance.L2NpcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class FOGMobs extends L2AttackableAIScript {
 

@@ -32,7 +32,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2FolkInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2NpcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PlayableInstance;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastList;
 

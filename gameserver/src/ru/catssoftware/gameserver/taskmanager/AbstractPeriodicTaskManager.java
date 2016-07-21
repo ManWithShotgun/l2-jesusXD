@@ -21,7 +21,7 @@ import org.apache.log4j.Logger;
 import ru.catssoftware.gameserver.L2GameServer;
 import ru.catssoftware.gameserver.ThreadPoolManager;
 import ru.catssoftware.gameserver.L2GameServer.StartupHook;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * @author NB4L1

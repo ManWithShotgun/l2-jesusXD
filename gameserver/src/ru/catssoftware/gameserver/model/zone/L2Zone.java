@@ -29,9 +29,9 @@ import ru.catssoftware.gameserver.skills.Env;
 import ru.catssoftware.gameserver.skills.funcs.Func;
 import ru.catssoftware.gameserver.skills.funcs.FuncOwner;
 import ru.catssoftware.gameserver.skills.funcs.FuncTemplate;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.L2Collections;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.L2Collections;
+import ru.jesus.commons.util.StatsSet;
 
 
 public abstract class L2Zone implements FuncOwner

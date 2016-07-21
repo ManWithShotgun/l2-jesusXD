@@ -34,9 +34,9 @@ import ru.catssoftware.gameserver.network.serverpackets.ServerClose;
 import ru.catssoftware.gameserver.threadmanager.FIFOPacketRunnableQueue;
 import ru.catssoftware.protection.CatsGuard;
 import ru.catssoftware.protection.LameStub;
-import ru.catssoftware.tools.security.BlowFishKeygen;
-import ru.catssoftware.tools.security.GameCrypt;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.tools.security.BlowFishKeygen;
+import ru.jesus.commons.tools.security.GameCrypt;
+import ru.jesus.commons.util.StatsSet;
 
 
 public final class L2GameClient extends MMOClient<MMOConnection<L2GameClient>>

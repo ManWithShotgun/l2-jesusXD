@@ -21,7 +21,7 @@ import ru.jesus.login.loginserver.network.serverpackets.LoginOk;
 import ru.jesus.login.loginserver.network.serverpackets.RequestCardId;
 import ru.jesus.login.loginserver.network.serverpackets.ServerList;
 import ru.jesus.login.loginserver.services.exception.AccountBannedException;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 /**

@@ -18,9 +18,9 @@ import ru.catssoftware.Config;
 import ru.catssoftware.gameserver.L2GameServer;
 import ru.catssoftware.info.UpdateInfo;
 import ru.catssoftware.info.Version;
-import ru.catssoftware.tools.util.HexUtil;
-import ru.catssoftware.util.Console;
-import ru.catssoftware.util.JarUtils;
+import ru.jesus.commons.tools.util.HexUtil;
+import ru.jesus.commons.util.Console;
+import ru.jesus.commons.util.JarUtils;
 
 
 public final class BootManager

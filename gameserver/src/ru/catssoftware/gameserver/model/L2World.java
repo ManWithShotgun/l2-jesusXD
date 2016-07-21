@@ -30,11 +30,11 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PetInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PlayableInstance;
 import ru.catssoftware.gameserver.network.Disconnection;
-import ru.catssoftware.tools.geometry.Point3D;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.LinkedBunch;
-import ru.catssoftware.util.concurrent.L2Collection;
-import ru.catssoftware.util.concurrent.L2ReadWriteCollection;
+import ru.jesus.commons.tools.geometry.Point3D;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.LinkedBunch;
+import ru.jesus.commons.util.concurrent.L2Collection;
+import ru.jesus.commons.util.concurrent.L2ReadWriteCollection;
 
 /**
  * This class ...

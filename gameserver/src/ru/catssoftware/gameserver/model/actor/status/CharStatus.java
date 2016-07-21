@@ -31,7 +31,7 @@ import ru.catssoftware.gameserver.model.quest.QuestState;
 import ru.catssoftware.gameserver.network.serverpackets.ActionFailed;
 import ru.catssoftware.gameserver.skills.Formulas;
 import ru.catssoftware.gameserver.taskmanager.AbstractIterativePeriodicTaskManager;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 public class CharStatus

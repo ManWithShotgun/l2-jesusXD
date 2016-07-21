@@ -16,7 +16,7 @@ import ru.catssoftware.Config;
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.util.L2Utils;
 import ru.catssoftware.gameserver.util.sql.StoreVote;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
  /**

@@ -34,7 +34,7 @@ import ru.catssoftware.gameserver.skills.Formulas;
 import ru.catssoftware.gameserver.skills.l2skills.L2SkillSignetCasttime;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.templates.skills.L2EffectType;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 import javolution.util.FastList;
 
 

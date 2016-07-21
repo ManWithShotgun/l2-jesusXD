@@ -16,7 +16,7 @@ import javolution.util.FastList;
 import javolution.util.FastMap;
  
 import ru.catssoftware.L2DatabaseFactory;
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.Announcements;
 import ru.catssoftware.gameserver.banmanager.BanManager;
 // import ru.catssoftware.gameserver.gmaccess.gmCache;
@@ -27,7 +27,7 @@ import ru.catssoftware.gameserver.network.Disconnection;
 import ru.catssoftware.gameserver.network.L2GameClient;
 import ru.catssoftware.gameserver.network.L2GameClient.IExReader;
 import ru.catssoftware.gameserver.network.serverpackets.GameGuardQuery;
-import ru.catssoftware.util.Console;
+import ru.jesus.commons.util.Console;
  
 public class CatsGuard {
         private static Logger _log = Logger.getLogger("CatsGuard");

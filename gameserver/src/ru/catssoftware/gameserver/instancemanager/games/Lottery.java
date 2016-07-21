@@ -31,7 +31,7 @@ import ru.catssoftware.gameserver.ThreadPoolManager;
 import ru.catssoftware.gameserver.model.L2ItemInstance;
 import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class Lottery
 {

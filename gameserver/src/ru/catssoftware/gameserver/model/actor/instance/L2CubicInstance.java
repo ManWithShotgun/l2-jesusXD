@@ -37,7 +37,7 @@ import ru.catssoftware.gameserver.model.zone.L2Zone;
 import ru.catssoftware.gameserver.network.serverpackets.MagicSkillUse;
 import ru.catssoftware.gameserver.skills.l2skills.L2SkillDrain;
 import ru.catssoftware.gameserver.taskmanager.AttackStanceTaskManager;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class L2CubicInstance
 {

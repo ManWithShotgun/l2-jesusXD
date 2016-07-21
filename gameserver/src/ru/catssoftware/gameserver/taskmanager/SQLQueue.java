@@ -24,7 +24,7 @@ import javolution.util.FastList;
 
 import ru.catssoftware.L2DatabaseFactory;
 import ru.catssoftware.gameserver.threadmanager.ExclusiveTask;
-import ru.catssoftware.sql.SQLQuery;
+import ru.jesus.commons.sql.SQLQuery;
 
 
 /**

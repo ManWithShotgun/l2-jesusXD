@@ -14,7 +14,7 @@
  */
 package ru.catssoftware.gameserver.templates.item;
 
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * This class is dedicated to the management of armors.

@@ -23,7 +23,7 @@ import java.util.Map;
 import org.apache.log4j.Logger;
 
 import ru.catssoftware.L2DatabaseFactory;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.util.ArrayUtils;
 
 import javolution.util.FastList;
 import javolution.util.FastMap;

@@ -45,8 +45,8 @@ import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.skills.Stats;
 import ru.catssoftware.gameserver.templates.item.L2Item;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.StatsSet;
 
 public class RecipeController
 {

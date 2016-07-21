@@ -28,7 +28,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2SummonInstance;
 import ru.catssoftware.gameserver.model.base.Experience;
 import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public class L2SkillSummon extends L2Skill
 {

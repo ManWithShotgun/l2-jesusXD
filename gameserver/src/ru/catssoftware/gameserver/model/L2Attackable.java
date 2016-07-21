@@ -66,9 +66,9 @@ import ru.catssoftware.gameserver.skills.Stats;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.templates.item.L2EtcItemType;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.LinkedBunch;
-import ru.catssoftware.util.SingletonMap;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.LinkedBunch;
+import ru.jesus.commons.util.SingletonMap;
 
 /**
  * This class manages all NPC that can be attacked.<BR>

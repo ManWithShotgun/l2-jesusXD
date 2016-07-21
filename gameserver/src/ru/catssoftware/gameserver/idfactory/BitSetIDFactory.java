@@ -28,7 +28,7 @@ import org.apache.log4j.Logger;
 
 
 import ru.catssoftware.gameserver.ThreadPoolManager;
-import ru.catssoftware.tools.util.PrimeFinder;
+import ru.jesus.commons.tools.util.PrimeFinder;
 
 /**
  * This class ...

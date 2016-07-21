@@ -12,7 +12,7 @@ import ru.catssoftware.gameserver.skills.effects.EffectCharmOfCourage;
 import ru.catssoftware.gameserver.skills.effects.EffectTemplate;
 import ru.catssoftware.gameserver.templates.skills.L2EffectType;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.util.LinkedBunch;
 
 import javolution.util.FastList;
 import javolution.util.FastMap;

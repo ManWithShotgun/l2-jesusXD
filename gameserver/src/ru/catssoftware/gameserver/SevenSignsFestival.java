@@ -40,9 +40,9 @@ import ru.catssoftware.gameserver.network.serverpackets.MagicSkillUse;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.L2Timer;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.L2Timer;
+import ru.jesus.commons.util.StatsSet;
 
 public class SevenSignsFestival implements SpawnListener
 {

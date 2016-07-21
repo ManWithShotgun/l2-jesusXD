@@ -24,7 +24,7 @@ import org.w3c.dom.Node;
 import ru.catssoftware.gameserver.instancemanager.MapRegionManager;
 import ru.catssoftware.gameserver.model.base.Race;
 import ru.catssoftware.gameserver.model.entity.Castle;
-import ru.catssoftware.tools.geometry.Point3D;
+import ru.jesus.commons.tools.geometry.Point3D;
 
 /**
  * @author Noctarius

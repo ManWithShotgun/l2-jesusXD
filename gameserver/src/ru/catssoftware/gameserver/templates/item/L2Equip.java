@@ -26,7 +26,7 @@ import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.skills.effects.EffectTemplate;
 import ru.catssoftware.gameserver.skills.funcs.Func;
 import ru.catssoftware.gameserver.skills.funcs.FuncTemplate;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 public abstract class L2Equip extends L2Item
 {

@@ -18,7 +18,7 @@ import java.util.Map;
 
 import ru.catssoftware.gameserver.model.entity.Hero;
 import ru.catssoftware.gameserver.model.olympiad.Olympiad;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 
 /**

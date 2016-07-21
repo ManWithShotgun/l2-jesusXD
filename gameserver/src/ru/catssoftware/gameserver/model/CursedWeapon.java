@@ -36,7 +36,7 @@ import ru.catssoftware.gameserver.network.serverpackets.ExRedSky;
 import ru.catssoftware.gameserver.network.serverpackets.InventoryUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.templates.item.L2Item;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class CursedWeapon
 {

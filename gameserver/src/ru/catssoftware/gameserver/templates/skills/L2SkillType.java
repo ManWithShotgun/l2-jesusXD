@@ -12,7 +12,7 @@ import ru.catssoftware.gameserver.skills.l2skills.L2SkillMount;
 import ru.catssoftware.gameserver.skills.l2skills.L2SkillSignet;
 import ru.catssoftware.gameserver.skills.l2skills.L2SkillSignetCasttime;
 import ru.catssoftware.gameserver.skills.l2skills.L2SkillSummon;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 
 public enum L2SkillType

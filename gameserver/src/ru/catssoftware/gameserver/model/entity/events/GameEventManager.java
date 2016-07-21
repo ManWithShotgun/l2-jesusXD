@@ -12,7 +12,7 @@ import javolution.util.FastMap;
 import org.apache.log4j.Logger;
 
 
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.ThreadPoolManager;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.entity.events.CTF.CTF;

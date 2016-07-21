@@ -10,7 +10,7 @@ import ru.catssoftware.gameserver.datatables.NpcTable;
 import ru.catssoftware.gameserver.idfactory.IdFactory;
 import ru.catssoftware.gameserver.model.actor.instance.L2NpcInstance;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class MonsterRace
 {

@@ -11,7 +11,7 @@ import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.util.Broadcast;
 import ru.catssoftware.gameserver.util.FloodProtector;
 import ru.catssoftware.gameserver.util.FloodProtector.Protected;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class RollingDice implements IItemHandler
 {

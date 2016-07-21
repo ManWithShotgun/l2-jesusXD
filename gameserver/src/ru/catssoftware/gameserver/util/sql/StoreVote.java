@@ -11,7 +11,7 @@ import org.apache.log4j.Logger;
 import ru.catssoftware.gameserver.network.daemons.IDeamon;
 import ru.catssoftware.gameserver.network.daemons.SuperDeamon;
 import ru.catssoftware.gameserver.taskmanager.SQLQueue;
-import ru.catssoftware.sql.SQLQuery;
+import ru.jesus.commons.sql.SQLQuery;
 
 
 

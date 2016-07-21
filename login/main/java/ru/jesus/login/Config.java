@@ -5,8 +5,8 @@ import java.io.FileInputStream;
 import java.io.InputStream;
 import java.util.Properties;
 
-import ru.catssoftware.L2Config;
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.L2Config;
+import ru.jesus.commons.config.L2Properties;
 
 
 

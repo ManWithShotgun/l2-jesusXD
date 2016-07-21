@@ -5,7 +5,7 @@ import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.model.L2Character.AIAccessor;
 import ru.catssoftware.gameserver.model.actor.instance.L2BaiumAngelInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2GrandBossInstance;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class L2BaiumAngelAI extends L2AttackableAI {
 

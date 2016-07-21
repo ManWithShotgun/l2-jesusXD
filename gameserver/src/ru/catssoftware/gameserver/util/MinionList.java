@@ -14,9 +14,9 @@ import ru.catssoftware.gameserver.model.L2MinionData;
 import ru.catssoftware.gameserver.model.actor.instance.L2MinionInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2MonsterInstance;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.SingletonList;
-import ru.catssoftware.util.SingletonMap;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.SingletonList;
+import ru.jesus.commons.util.SingletonMap;
 
 import javolution.util.FastSet;
 

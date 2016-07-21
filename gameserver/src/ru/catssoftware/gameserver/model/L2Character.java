@@ -106,11 +106,11 @@ import ru.catssoftware.gameserver.templates.skills.L2EffectType;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
 import ru.catssoftware.gameserver.util.Broadcast;
 import ru.catssoftware.gameserver.util.Util;
-import ru.catssoftware.lang.L2System;
-import ru.catssoftware.tools.geometry.Point3D;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.SingletonList;
-import ru.catssoftware.util.SingletonSet;
+import ru.jesus.commons.lang.L2System;
+import ru.jesus.commons.tools.geometry.Point3D;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.SingletonList;
+import ru.jesus.commons.util.SingletonSet;
 
 
 public abstract class L2Character extends L2Object implements IEffector

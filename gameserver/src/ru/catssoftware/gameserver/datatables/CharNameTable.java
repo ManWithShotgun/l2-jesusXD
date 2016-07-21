@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
 
 
 import ru.catssoftware.L2DatabaseFactory;
-import ru.catssoftware.lang.L2Integer;
+import ru.jesus.commons.lang.L2Integer;
 
 public final class CharNameTable
 {

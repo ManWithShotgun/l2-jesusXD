@@ -5,7 +5,7 @@ import ru.catssoftware.gameserver.model.L2Character;
 import ru.catssoftware.gameserver.model.L2Skill;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.templates.skills.L2SkillType;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class SummonTreasureKey implements ISkillHandler
 {

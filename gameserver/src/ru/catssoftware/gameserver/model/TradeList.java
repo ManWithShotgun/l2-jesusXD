@@ -16,7 +16,7 @@ import ru.catssoftware.gameserver.network.serverpackets.StatusUpdate;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.templates.item.L2EtcItemType;
 import ru.catssoftware.gameserver.templates.item.L2Item;
-import ru.catssoftware.util.LinkedBunch;
+import ru.jesus.commons.util.LinkedBunch;
 
 public class TradeList
 {

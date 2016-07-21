@@ -67,7 +67,7 @@ import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.templates.item.L2EtcItemType;
 import ru.catssoftware.gameserver.templates.item.L2Item;
 import ru.catssoftware.gameserver.templates.item.L2Weapon;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 public class L2PetInstance extends L2Summon

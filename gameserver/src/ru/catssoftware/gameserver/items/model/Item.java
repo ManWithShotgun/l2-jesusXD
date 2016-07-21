@@ -15,7 +15,7 @@
 package ru.catssoftware.gameserver.items.model;
 
 import ru.catssoftware.gameserver.templates.item.AbstractL2ItemType;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * This class ...

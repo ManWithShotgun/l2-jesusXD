@@ -29,7 +29,7 @@ import org.apache.log4j.Logger;
 
 import ru.catssoftware.Config;
 import ru.catssoftware.L2DatabaseFactory;
-import ru.catssoftware.config.L2Properties;
+import ru.jesus.commons.config.L2Properties;
 import ru.catssoftware.gameserver.SevenSigns;
 import ru.catssoftware.gameserver.datatables.SkillTable;
 import ru.catssoftware.gameserver.model.L2Character;

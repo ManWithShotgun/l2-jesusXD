@@ -28,8 +28,8 @@ import ru.catssoftware.gameserver.datatables.SpawnTable;
 import ru.catssoftware.gameserver.model.actor.instance.L2NpcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2PlayableInstance;
 import ru.catssoftware.gameserver.model.zone.L2Zone;
-import ru.catssoftware.util.concurrent.L2Collection;
-import ru.catssoftware.util.concurrent.L2SynchronizedCollection;
+import ru.jesus.commons.util.concurrent.L2Collection;
+import ru.jesus.commons.util.concurrent.L2SynchronizedCollection;
 
 public final class L2WorldRegion
 {

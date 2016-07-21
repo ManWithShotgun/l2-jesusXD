@@ -14,7 +14,7 @@
  */
 package ru.catssoftware.gameserver.model;
 
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * This class describes a Recipe used by Dwarf to craft Item.

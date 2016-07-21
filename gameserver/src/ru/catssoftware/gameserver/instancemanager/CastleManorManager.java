@@ -39,7 +39,7 @@ import ru.catssoftware.gameserver.model.entity.Castle;
 import ru.catssoftware.gameserver.model.itemcontainer.ClanWarehouse;
 import ru.catssoftware.gameserver.model.itemcontainer.ItemContainer;
 import ru.catssoftware.gameserver.network.SystemMessageId;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 /**
  * Class For Castle Manor Manager Load manor data from DB Update/Reload/Delete

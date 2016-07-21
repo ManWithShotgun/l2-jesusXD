@@ -33,8 +33,8 @@ import ru.catssoftware.gameserver.datatables.SpawnTable;
 import ru.catssoftware.gameserver.model.L2Boss;
 import ru.catssoftware.gameserver.model.L2Spawn;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.tools.random.Rnd;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.tools.random.Rnd;
+import ru.jesus.commons.util.StatsSet;
 
 public abstract class BossSpawnManager
 {

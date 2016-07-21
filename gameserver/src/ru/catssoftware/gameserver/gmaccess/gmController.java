@@ -13,7 +13,7 @@ import ru.catssoftware.Message;
 import ru.catssoftware.gameserver.model.L2World;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.serverpackets.NpcHtmlMessage;
-import ru.catssoftware.util.JarUtils;
+import ru.jesus.commons.util.JarUtils;
 
  /**
   * Класс управления Gm'ами и хандлерами

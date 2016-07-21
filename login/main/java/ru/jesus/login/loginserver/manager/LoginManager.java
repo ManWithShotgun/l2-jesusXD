@@ -38,9 +38,9 @@ import ru.jesus.login.loginserver.thread.GameServerThread;
 import ru.jesus.login.L2DatabaseFactory;
 import ru.jesus.login.loginserver.L2LoginClient;
 import ru.jesus.login.loginserver.model.SessionKey;
-import ru.catssoftware.tools.codec.Base64;
-import ru.catssoftware.tools.math.ScrambledKeyPair;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.codec.Base64;
+import ru.jesus.commons.tools.math.ScrambledKeyPair;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class LoginManager
 {

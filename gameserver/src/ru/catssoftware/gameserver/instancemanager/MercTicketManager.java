@@ -36,7 +36,7 @@ import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.model.actor.instance.L2SiegeGuardInstance;
 import ru.catssoftware.gameserver.model.entity.Castle;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
-import ru.catssoftware.util.ArrayUtils;
+import ru.jesus.commons.util.ArrayUtils;
 
 /**
  * @author yellowperil & Fulminus

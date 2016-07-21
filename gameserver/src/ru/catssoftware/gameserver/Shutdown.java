@@ -32,7 +32,7 @@ import ru.catssoftware.gameserver.network.SystemMessageId;
 import ru.catssoftware.gameserver.network.gameserverpackets.ServerStatus;
 import ru.catssoftware.gameserver.network.serverpackets.SystemMessage;
 import ru.catssoftware.gameserver.taskmanager.SQLQueue;
-import ru.catssoftware.util.Console;
+import ru.jesus.commons.util.Console;
 /**
  * 27.02.10 Azagthtot Добавлены обработчики "при завершении", что в<br> 
  *  паре с методом L2GameServer.addStartupHook() предоставляет<br>

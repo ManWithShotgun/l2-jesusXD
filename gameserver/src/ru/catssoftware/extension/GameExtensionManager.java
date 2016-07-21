@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
-import ru.catssoftware.extension.ExtensionManager;
-import ru.catssoftware.extension.IExtension;
+import ru.jesus.commons.extension.ExtensionManager;
+import ru.jesus.commons.extension.IExtension;
 import ru.catssoftware.extension.ObjectExtension.Action;
 
 import javolution.util.FastList;

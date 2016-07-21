@@ -14,7 +14,7 @@
  */
 package ru.catssoftware.gameserver.templates.chars;
 
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * Base template for all type of characters

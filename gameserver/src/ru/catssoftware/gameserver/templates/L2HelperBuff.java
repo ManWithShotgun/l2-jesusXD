@@ -14,7 +14,7 @@
  */
 package ru.catssoftware.gameserver.templates;
 
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * This class represents a Newbie Helper Buff

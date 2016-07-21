@@ -29,7 +29,7 @@ import ru.jesus.login.Config;
 import ru.jesus.login.L2DatabaseFactory;
 import ru.jesus.login.loginserver.manager.GameServerManager;
 import ru.jesus.login.loginserver.model.GameServerInfo;
-import ru.catssoftware.tools.util.HexUtil;
+import ru.jesus.commons.tools.util.HexUtil;
 
 
 public class GameServerRegister

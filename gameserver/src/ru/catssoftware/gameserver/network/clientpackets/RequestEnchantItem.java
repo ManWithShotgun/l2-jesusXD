@@ -20,7 +20,7 @@ import ru.catssoftware.gameserver.util.FloodProtector;
 import ru.catssoftware.gameserver.util.IllegalPlayerAction;
 import ru.catssoftware.gameserver.util.Util;
 import ru.catssoftware.gameserver.util.FloodProtector.Protected;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 public class RequestEnchantItem extends L2GameClientPacket
 {

@@ -15,8 +15,8 @@
 package ru.catssoftware.gameserver.taskmanager;
 
 import ru.catssoftware.gameserver.taskmanager.AbstractPeriodicTaskManager;
-import ru.catssoftware.util.L2FastSet;
-import ru.catssoftware.util.concurrent.RunnableStatsManager;
+import ru.jesus.commons.util.L2FastSet;
+import ru.jesus.commons.util.concurrent.RunnableStatsManager;
 
 /**
  * @author NB4L1

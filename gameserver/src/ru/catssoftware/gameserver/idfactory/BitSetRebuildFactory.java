@@ -27,7 +27,7 @@ import org.apache.log4j.Logger;
 
 
 import ru.catssoftware.L2DatabaseFactory;
-import ru.catssoftware.tools.util.PrimeFinder;
+import ru.jesus.commons.tools.util.PrimeFinder;
 
 /*
  * author: evill33t

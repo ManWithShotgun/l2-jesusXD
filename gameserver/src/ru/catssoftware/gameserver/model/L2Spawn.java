@@ -24,7 +24,7 @@ import ru.catssoftware.gameserver.model.entity.Town;
 import ru.catssoftware.gameserver.model.zone.L2Zone.ZoneType;
 import ru.catssoftware.gameserver.templates.chars.L2NpcTemplate;
 import ru.catssoftware.gameserver.util.RndCoord;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 
 public class L2Spawn

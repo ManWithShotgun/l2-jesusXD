@@ -2,7 +2,7 @@ package ru.catssoftware.gameserver.skills.l2skills;
 
 import ru.catssoftware.gameserver.model.L2Character;
 import ru.catssoftware.gameserver.model.L2Skill;
-import ru.catssoftware.util.StatsSet;
+import ru.jesus.commons.util.StatsSet;
 
 /**
  * Class to Manage Symbol Type Skills <br>

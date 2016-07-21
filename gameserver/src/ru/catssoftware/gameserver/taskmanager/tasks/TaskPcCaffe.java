@@ -9,7 +9,7 @@ import ru.catssoftware.gameserver.model.Location;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 import ru.catssoftware.gameserver.network.serverpackets.ExPCCafePointInfo;
 import ru.catssoftware.gameserver.threadmanager.ExclusiveTask;
-import ru.catssoftware.tools.random.Rnd;
+import ru.jesus.commons.tools.random.Rnd;
 
 import javolution.util.FastMap;
 
