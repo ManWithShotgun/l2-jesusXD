@@ -10,8 +10,7 @@ import ru.catssoftware.config.L2Properties;
 
 
 
-public class Config extends L2Config
-{
+public class Config extends L2Config {
 
 
 	//=================================================================================
@@ -33,8 +32,7 @@ public class Config extends L2Config
 	
 	
 
-	public static void loadNetworkConfig()
-	{
+	public static void loadNetworkConfig() {
 		System.out.println("Loading: " + NETWORK_FILE + ".");
 		try
 		{
