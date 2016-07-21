@@ -1,7 +1,7 @@
 package ru.catssoftware.gameserver.communitybbs.handlers;
 
 
-// import ru.catssoftware.Config;
+// import Config;
 import ru.catssoftware.gameserver.communitybbs.IBBSHandler;
 import ru.catssoftware.gameserver.model.actor.instance.L2PcInstance;
 /**
